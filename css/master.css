@@ -1,0 +1,53 @@
+
+
+p,span{
+	background-color: white;
+}
+div.car{
+
+	margin-top: 300px;
+	width: 500px;
+	height: auto;
+	background-color: white;
+	padding: 40px;
+	border-radius: 2px;
+
+
+}
+
+
+p{
+	font-size: 26px;
+	font-weight: 500;
+}
+
+
+.car p{
+	margin-bottom: 40px;
+}
+
+.car span{
+	margin-bottom: 20px;
+
+}
+
+.row{
+	background-color: white;
+}
+
+body{
+	height: 100%;
+	background-color: orange;
+}
+
+div.btn-flat{
+	background-color: black ;
+}
+
+@media screen and (max-width: 600px){
+  div.car{
+	width: 300px;
+	}	
+
+
+}
